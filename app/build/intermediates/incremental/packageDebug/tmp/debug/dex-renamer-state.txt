@@ -1,0 +1,4 @@
+#Thu Jan 16 22:18:10 ICT 2020
+base.0=C\:\\Users\\Yogi Ilhamda Permana\\Desktop\\Nonton-20200116T093842Z-001\\Nonton\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
